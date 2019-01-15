@@ -9,7 +9,7 @@ def get_arguments():
     return parser.parse_args()
 
 def input_validation(param, msg):  
-    duration_list = [20,40,1]
+    duration_list = [20,40]
     restart = True  
     while restart:
         if param in duration_list:
