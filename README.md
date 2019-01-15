@@ -15,4 +15,7 @@ Open Task Manager and select eyeNap.exe and press delete.
 ## LICENSE
 MIT @ [Manolingam](./LICENSE)
 
+### CONTRIBUTORS
+* [Manolingam](https://github.com/manolingam)
+
 
