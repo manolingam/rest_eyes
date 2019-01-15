@@ -12,4 +12,7 @@ A python program to automate standby mode in time intervals for windows users to
 # How to stop this program
 Open Task Manager and select eyeNap.exe and press delete.
 
+## LICENSE
+MIT @ [Manolingam](./LICENSE)
+
 
